@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm SYSALL! </h2>
+<h2> Hi there 👋, I'm Mamadou SYSALL! </h2>
 
 🛡️ Co-founder of [SUNUCASH](https://www.sunucash.tech/)
 
