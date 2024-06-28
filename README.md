@@ -9,7 +9,7 @@
 
 
 I'm a Software and Blockchain Engineer, Web3 Developer and Smart Contract Auditor.
-- 🔭 I’m currently working on Web3 projects and Flutter
+- 🔭 I’m currently working on Web3 projects and Flutter as Freelance
 - 👯 I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me: Sall.momo2@gmail.com
 - ⚡ Fun fact: PYTHON is the best programming language 🙃
