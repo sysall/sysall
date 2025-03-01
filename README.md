@@ -8,7 +8,7 @@
 [![Mamadou SySALL Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sall.momo2/)
 
 
-I'm a Software and Blockchain Engineer, Web3 Developer and Smart Contract Auditor.
+I'm a Software and Blockchain Engineer.
 - 🔭 I’m currently working on Web3 projects and Flutter as Freelance
 - 👯 I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me: Sall.momo2@gmail.com
