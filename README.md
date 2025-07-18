@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Mamadou SYSALL! </h2>
 
-🛡️ Founder of [SUNUCASH](https://www.blockinnov.fr/)
+🛡️ Founder of [BLOCK INNOV](https://www.blockinnov.fr/)
 
     
 [![Mamadou Sy SALL Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamadou-sy-sall-ba797a137/)
